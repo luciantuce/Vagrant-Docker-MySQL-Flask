@@ -1,5 +1,5 @@
 # Vagrant-Docker-MySQL-Flask
-This project is about creating a VM with vagrant managemnt. 
+This project is about creating a VM with vagrant management. 
 The following actions will be performed on the vagrant VM with the help of ansible playbook (which runs automatically at VM start):
 - installs Ubuntu prereq packages
 - installs MySQL service
