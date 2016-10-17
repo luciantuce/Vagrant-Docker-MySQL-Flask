@@ -12,6 +12,7 @@ Vagrantfile
 -----------
 - maps the port 80 to 1234 on the host
 - installs python 2.7
+- ansible provisioning
 
 Dockerfile
 ----------
