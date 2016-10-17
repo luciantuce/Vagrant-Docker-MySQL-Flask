@@ -5,8 +5,8 @@ The following actions will be performed on the vagrant VM with the help of ansib
 - installs MySQL service
 - it clones the git repo https://github.com/datacharmer/test_db and imports employees_partitioned.sql DB
 - installs Docker service and its dependencies
-- clones this repo and builds docker image from Dockerfile querydb
-- starts docker container pythonapp
+- clones this repo and builds docker image from Dockerfile, named querydb
+- starts docker container, named pythonapp
 
 Vagrantfile
 -----------
