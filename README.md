@@ -11,6 +11,7 @@ The following actions will be performed on the vagrant VM with the help of ansib
 Vagrantfile
 -----------
 - maps the port 80 to 1234 on the host
+- installs python 2.7
 
 Dockerfile
 ----------
@@ -28,4 +29,4 @@ How to run it:
 
 > vagrant up
 
-Open a browser and type in: http://localhost:1234, it should display the results in html format.
+Wait until ansible provisioning ends. Open a browser and type in: http://localhost:1234, it should display the results in html format.
