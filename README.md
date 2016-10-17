@@ -23,5 +23,9 @@ app.py
 - queries the employees database from MySQL VM
 - displays the results in html format
 
+How to run it:
+--------------
+
 > vagrant up
-> open a browser and type in: http://localhost:1234
+
+Open a browser and type in: http://localhost:1234, it should display the results in html format.
